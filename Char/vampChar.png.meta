@@ -1,0 +1,840 @@
+fileFormatVersion: 2
+guid: 82c005ad33fd8c54c979e69d260fd62a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3170468570545126251
+    second: vampChar_0
+  - first:
+      213: -7698225734819196934
+    second: vampChar_1
+  - first:
+      213: 1963626380334877584
+    second: vampChar_2
+  - first:
+      213: 3962448346106079462
+    second: vampChar_3
+  - first:
+      213: 6945483405499267999
+    second: vampChar_4
+  - first:
+      213: 2274571943148951658
+    second: vampChar_5
+  - first:
+      213: -6029351510625164745
+    second: vampChar_6
+  - first:
+      213: 733711503456176918
+    second: vampChar_7
+  - first:
+      213: -7574921266318513749
+    second: vampChar_8
+  - first:
+      213: -2028657699981234865
+    second: vampChar_9
+  - first:
+      213: 3276041378154937469
+    second: vampChar_10
+  - first:
+      213: 5048539251735803065
+    second: vampChar_11
+  - first:
+      213: -1091366733716749235
+    second: vampChar_12
+  - first:
+      213: -4650423159791767227
+    second: vampChar_13
+  - first:
+      213: -3226059784105072996
+    second: vampChar_14
+  - first:
+      213: -8370923614853978189
+    second: vampChar_15
+  - first:
+      213: 5802399916508295018
+    second: vampChar_16
+  - first:
+      213: -9152393727046270360
+    second: vampChar_17
+  - first:
+      213: 5042700151368500017
+    second: vampChar_18
+  - first:
+      213: -4687791386092835681
+    second: vampChar_19
+  - first:
+      213: -3763184685130989838
+    second: vampChar_20
+  - first:
+      213: -5063064000628650483
+    second: vampChar_21
+  - first:
+      213: 2133062427549103001
+    second: vampChar_22
+  - first:
+      213: -1030170697029153386
+    second: vampChar_23
+  - first:
+      213: 6739444828882119828
+    second: vampChar_24
+  - first:
+      213: -6048570846782818798
+    second: vampChar_25
+  - first:
+      213: 6071270440302907305
+    second: vampChar_26
+  - first:
+      213: -8184483428837085321
+    second: vampChar_27
+  - first:
+      213: -2238290307137767809
+    second: vampChar_28
+  - first:
+      213: -4582975147852087262
+    second: vampChar_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 318, y: 350, z: 257, w: 244}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vampChar_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 535
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bf1e6fd54cffb20800000000000000
+      internalID: 3170468570545126251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampChar_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 536
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affc45b2b786a2590800000000000000
+      internalID: -7698225734819196934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampChar_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 537
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b42770ac3304b10800000000000000
+      internalID: 1963626380334877584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampChar_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 535
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8ac7ed6c17df630800000000000000
+      internalID: 3962448346106079462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampChar_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 535
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b772acb50536060800000000000000
+      internalID: 6945483405499267999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampChar_5
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 537
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68967f8127e09f10800000000000000
+      internalID: 2274571943148951658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampChar_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 536
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732e837feb0735ca0800000000000000
+      internalID: -6029351510625164745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampChar_7
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 535
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b8f1b99baae2a00800000000000000
+      internalID: 733711503456176918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampChar_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 461
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9688fed3970e690800000000000000
+      internalID: -7574921266318513749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampChar_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 461
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4de1c5f192c8d3e0800000000000000
+      internalID: -2028657699981234865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampChar_10
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 460
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cf766b646d67d20800000000000000
+      internalID: 3276041378154937469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampChar_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 462
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4345e73b3001640800000000000000
+      internalID: 5048539251735803065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampChar_12
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 464
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44822decbfaad0f0800000000000000
+      internalID: -1091366733716749235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampChar_13
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 462
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541bc5176c0667fb0800000000000000
+      internalID: -4650423159791767227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampChar_14
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 463
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c966e3008bbba33d0800000000000000
+      internalID: -3226059784105072996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampChar_15
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 463
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b723b6c25184db80800000000000000
+      internalID: -8370923614853978189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampChar_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 386
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fab3c4bf3468050800000000000000
+      internalID: 5802399916508295018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampChar_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 388
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862c4ee856a2cf080800000000000000
+      internalID: -9152393727046270360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampChar_18
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 389
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133c02ff1154bf540800000000000000
+      internalID: 5042700151368500017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampChar_19
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 388
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cecc2429e91feb0800000000000000
+      internalID: -4687791386092835681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampChar_20
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 386
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2feb392977b76cbc0800000000000000
+      internalID: -3763184685130989838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampChar_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 386
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e067fdd126cb9b0800000000000000
+      internalID: -5063064000628650483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampChar_22
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 385
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993fbc5f9f82a9d10800000000000000
+      internalID: 2133062427549103001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampChar_23
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 329
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d8f89853914b1f0800000000000000
+      internalID: -1030170697029153386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampChar_24
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 327
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cacd06d51578d50800000000000000
+      internalID: 6739444828882119828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampChar_25
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 327
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216f9be8cd82f0ca0800000000000000
+      internalID: -6048570846782818798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampChar_26
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 329
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af85996c4c714450800000000000000
+      internalID: 6071270440302907305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampChar_27
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 350
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f281a4fafda6e80800000000000000
+      internalID: -8184483428837085321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampChar_28
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 334
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f767ada13deffe0e0800000000000000
+      internalID: -2238290307137767809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampChar_29
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 329
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22045d972600660c0800000000000000
+      internalID: -4582975147852087262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: 18, y: 49}
+      - {x: 18, y: 56}
+      - {x: 43, y: 56}
+      - {x: 43, y: 49}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
